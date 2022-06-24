@@ -1,10 +1,10 @@
-### **The Assignment Technical Documentation**
+### **The Technical Documentation**
 
 This is technical documentation to understand how it works the projects.
 
 **1. Installation**
 
-The assignment contains two projects that are frontend and api.
+The repository contains two projects that are frontend and api.
 Projects can be installed using Docker containers that include Redis, MySQL, Spring Boot backend and VueJS 3 frontend projects. 
 To build and run containers should run the command below:
 
